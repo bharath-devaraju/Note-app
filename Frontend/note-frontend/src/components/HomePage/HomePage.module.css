@@ -1,0 +1,16 @@
+
+
+.db{
+    position : relative;
+    left : 20px;
+}
+
+.card{
+    position : relative;
+    display : inline-block; 
+    width : 18rem;
+}
+
+
+
+
